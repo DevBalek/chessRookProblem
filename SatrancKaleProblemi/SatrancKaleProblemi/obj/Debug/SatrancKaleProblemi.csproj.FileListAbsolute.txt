@@ -1,0 +1,7 @@
+C:\Users\balek\source\repos\SatrancKaleProblemi\SatrancKaleProblemi\bin\Debug\SatrancKaleProblemi.exe.config
+C:\Users\balek\source\repos\SatrancKaleProblemi\SatrancKaleProblemi\bin\Debug\SatrancKaleProblemi.exe
+C:\Users\balek\source\repos\SatrancKaleProblemi\SatrancKaleProblemi\bin\Debug\SatrancKaleProblemi.pdb
+C:\Users\balek\source\repos\SatrancKaleProblemi\SatrancKaleProblemi\obj\Debug\SatrancKaleProblemi.csprojAssemblyReference.cache
+C:\Users\balek\source\repos\SatrancKaleProblemi\SatrancKaleProblemi\obj\Debug\SatrancKaleProblemi.csproj.CoreCompileInputs.cache
+C:\Users\balek\source\repos\SatrancKaleProblemi\SatrancKaleProblemi\obj\Debug\SatrancKaleProblemi.exe
+C:\Users\balek\source\repos\SatrancKaleProblemi\SatrancKaleProblemi\obj\Debug\SatrancKaleProblemi.pdb
